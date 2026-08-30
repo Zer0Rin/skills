@@ -1,0 +1,4 @@
+interface:
+  display_name: "人物四视图建设"
+  short_description: "把人物参考整理为身份一致的面部、正面、侧面和背面四视图角色板"
+  default_prompt: "使用 $character-four-view-builder 把这个人物参考整理成统一的四视图角色设定板。"
