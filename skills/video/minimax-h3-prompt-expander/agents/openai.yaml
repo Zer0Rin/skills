@@ -1,0 +1,4 @@
+interface:
+  display_name: "MiniMax H3 提示词扩写"
+  short_description: "把简短视频意图扩展为 MiniMax H3 与 Seedance 可执行提示词"
+  default_prompt: "Use $minimax-h3-prompt-expander to expand this short video idea into an executable MiniMax H3 prompt."
